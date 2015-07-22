@@ -1,0 +1,3 @@
+# rubygem-listen requires version (~> 0.16.0)
+# check: https://rubygems.org/gems/listen/versions/2.10.1
+watchurl=https://rubygems.org/gems/celluloid/versions/(0.16.[\d\.]*)
