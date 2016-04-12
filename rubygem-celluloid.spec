@@ -4,7 +4,7 @@
 #
 Name     : rubygem-celluloid
 Version  : 0.16.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/celluloid-0.16.0.gem
 Source0  : https://rubygems.org/downloads/celluloid-0.16.0.gem
 Summary  : No detailed summary available
